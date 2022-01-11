@@ -6,7 +6,7 @@
 #### 6
 #### 7 La lamb
 #### 8
-#### 9 git hub is really good.
+#### 9 git hub is reaally awesome.
 #### 10
 #### 11
 #### 12

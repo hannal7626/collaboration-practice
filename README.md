@@ -53,6 +53,7 @@ Aborting.
   a.  So following the directions, you must `add` and `commit`. Go ahead and do that.  
   b.  Well you're in the habit of doing `add`, `commit`, and `push`, so go ahead and try `push`ing. You should see an error:  
 ```  
+
 hint: Updates were rejected because the tip of your current branch is behind
 hint: its remote counterpart. Integrate the remote changes (e.g.
 hint: 'git pull ...') before pushing again.
