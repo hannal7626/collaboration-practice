@@ -2,13 +2,13 @@
 #### 2
 #### 3 Jiming was here
 #### 4
-#### 5 Hanna is uber smart
+#### 5 Hanna is uber smart !
 #### 6
 #### 7 La lamb
 #### 8
-#### 9 git hub is reaally awesome.
+#### 9 git hub is really awesome.
 #### 10
-#### 11
+#### 11 Hanna is uber nice !
 #### 12
 #### 13
 #### 14
