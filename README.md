@@ -127,7 +127,7 @@ nothing to commit, working directory clean
 ## Task 3: Extension
 
 Work together to try to make what you see in the screenshot below. You can divide and conquer, but `add`/`commit`/`pull`/`push` frequently. Hopefully you get both **automatic** merges and **merge** conflicts!
-
+c 
 All starter code is in [extension.html](extension.html).
 
 <img src="extension.png">
